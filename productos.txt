@@ -1,0 +1,3 @@
+[{"id":1,"producto":"buzo","precio":8000},
+{"id":2,"producto":"zapatillas","precio":15000},
+{"id":3,"producto":"remera","precio":5000}]
